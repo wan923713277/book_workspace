@@ -1,4 +1,5 @@
 # Summary
 
-* [Introduction](basic.md)
+* [Introduction](README.md)
+* [redis常用基础命令](basic.md)
 
